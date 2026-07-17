@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Generator",
+  "description": "A simple billing software and invoice generator that tracks payments, exports PDF invoices, and generates monthly tax reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
